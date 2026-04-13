@@ -14,14 +14,13 @@ public class Solution {
         if ( head==null || head.next==null) return false;
         ListNode temp=head;
         HashSet<ListNode> set=new HashSet<>();
-        while(temp.next!=null){
+        while(temp!=null){
             if(!set.contains(temp)) {
                 set.add(temp);
                 temp=temp.next;
                 }
             else return true;
         }
-        if(temp.next==null) return false;
         return false;
     }
 }
