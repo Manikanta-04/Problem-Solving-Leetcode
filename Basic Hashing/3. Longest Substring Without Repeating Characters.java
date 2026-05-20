@@ -1,5 +1,5 @@
 import java.util.*;
-
+//solving the problem using sliding window technique and hashset to keep track of unique characters in the current window
 class Solution {
     public int lengthOfLongestSubstring(String s) {
 
