@@ -67,50 +67,74 @@ This repository is built to:
 
 ---
 
-## 📈 Progress Tracker
+📈 Progress Tracker
 
-> This section can be updated as more problems are solved.
-
-| Topic | Problems Solved |
-|-------|:--------------:|
-| Arrays | 🔄 In Progress |
-| Basic Hashing | 🔄 In Progress |
-| Basic Maths | 🔄 In Progress |
-| Basic Recursion | 🔄 In Progress |
-| Binary Search | 🔄 In Progress |
-| Bit Manipulation | 🔄 In Progress |
-| Java Basic Input and Output | 🔄 In Progress |
-| Linked List | 🔄 In Progress |
-| Recursion Pattern | 🔄 In Progress |
-| Sorting Techniques | 🔄 In Progress |
-| Strings | 🔄 In Progress |
-
----
-
-## 🌟 Tips for Beginners
-
-- Don't jump straight to hard problems. Start with **Easy → Medium → Hard**.
-- Focus on **understanding the pattern**, not memorizing the solution.
-- Re-solve problems after a few days to test your retention.
-- Always think about **time complexity** and **space complexity**.
+Topic| Status
+Arrays| ✅ Completed
+HashMap & HashSet| ✅ Completed
+Two Pointers| ✅ Completed
+Sliding Window| ✅ Completed
+Binary Search| ✅ Completed
+Stack| ✅ Completed
+Queue & Deque| ✅ Completed
+Linked List| 🔄 In Progress
+Trees| 🔄 In Progress
+Recursion & Backtracking| 🔄 In Progress
+Sorting Techniques| 🔄 In Progress
+Strings| 🔄 In Progress
+Dynamic Programming| ⏳ Planned
+Graphs| ⏳ Planned
+Greedy Algorithms| ⏳ Planned
+Heap / Priority Queue| ⏳ Planned
 
 ---
 
-## 🤝 Contributing
+🎯 Repository Goals
 
-This is a personal learning repository, but feel free to:
-- ⭐ **Star** the repo if you find it helpful
-- 🍴 **Fork** it and add your own solutions
-- 💬 Open an **Issue** if you spot a bug or have a suggestion
-
----
-
-## 📬 Connect
-
-If you'd like to connect, discuss DSA, or collaborate — feel free to reach out!
+- Solve LeetCode problems consistently.
+- Master DSA patterns and problem-solving techniques.
+- Improve coding interview preparation.
+- Maintain clean and well-explained Java solutions.
+- Track progress topic-wise for structured learning.
 
 ---
 
-> *"The secret to getting ahead is getting started."* — Mark Twain
+🛠️ Tech Stack
 
-Happy Coding! 💻✨
+- Language: Java
+- Platform: LeetCode
+- IDE: IntelliJ IDEA / VS Code
+
+---
+
+🌟 Tips for Beginners
+
+- Start with Easy problems before moving to Medium and Hard.
+- Focus on understanding patterns rather than memorizing solutions.
+- Practice previously solved problems regularly.
+- Analyze Time Complexity and Space Complexity for every solution.
+- Write clean and readable code.
+
+---
+
+🤝 Contributing
+
+Feel free to:
+
+- ⭐ Star this repository
+- 🍴 Fork and add your own solutions
+- 🐛 Open an Issue for suggestions or improvements
+
+---
+
+📬 Connect With Me
+
+- GitHub: https://github.com/Manikanta-04
+- LeetCode: Add your LeetCode profile link here
+- LinkedIn: Add your LinkedIn profile link here
+
+---
+
+«"The secret to getting ahead is getting started." — Mark Twain»
+
+Happy Coding! 🚀
